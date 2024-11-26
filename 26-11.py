@@ -32,3 +32,8 @@
 # print(l1,l2)
 # l=l1+l2
 # print(l)
+
+# ['o','e','o','e','o','o']
+l=[1,2,3,4,5,7]
+x=list(map(lambda x:'e' if x%2==0 else 'o',l))
+print(x)
