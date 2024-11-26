@@ -34,6 +34,15 @@
 # print(l)
 
 # ['o','e','o','e','o','o']
-l=[1,2,3,4,5,7]
-x=list(map(lambda x:'e' if x%2==0 else 'o',l))
-print(x)
+# l=[1,2,3,4,5,7]
+# x=list(map(lambda x:'e' if x%2==0 else 'o',l))
+# print(x)
+
+# l=['apple','orange','ant','an','start','end']
+# x=list(filter(lambda x:x[0]=='a',l))
+# print(x)
+
+# from functools import reduce
+# l=[1,3,5,7,10]
+# sum=reduce(lambda x,y:x*y,l)
+# print(sum)
