@@ -1,3 +1,3 @@
 L=['vishal','ravi','raj']
-l.sort(key=lambda x:x[-1])
-print(l)
+L.sort(key=lambda x:x[-1])
+print(L)
