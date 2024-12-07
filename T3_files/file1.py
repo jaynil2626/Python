@@ -65,3 +65,37 @@
 # xyz.write('321')
 # xyz.close()
 
+# self=open('self.txt', 'a+')
+# print(self.name) # self.txt
+# print(self.mode) # a+
+# print(self.closed) # False
+# print(self.readable()) #True
+# print(self.writable()) #True
+# self.close()
+
+
+# # new line (\n)
+# self=open('self.txt', 'w')
+# self.write('12345 789')
+# self.writelines(['a', 'b\n', 'c'])
+# self.close() #output: 12345 789ab
+# #                     c
+
+
+# # imp for concept but out of syllabus
+# self=open('self.txt', 'w')
+# self.write('HI\n')
+# self.writelines(['Hello\n','Welcome\n'])
+# self.close()
+
+# self=open('self.txt','r')
+# print(self.readline()) # HI
+
+# print(self.readlines()) # ['Hello\n', 'Welcome\n']
+
+# print(self.read(2))
+# print(self.read(4))
+# print(self.read(7))
+# print(self.read())
+# self.close()
+
