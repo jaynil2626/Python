@@ -1,0 +1,1 @@
+self=open('self.txt', mode='r')
