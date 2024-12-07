@@ -99,3 +99,17 @@
 # print(self.read())
 # self.close()
 
+
+# self=open('self.txt', 'r')
+# for i,j in enumerate(self, start=1):
+#     print(i, '>', j)
+# self.close()
+# # 1 > HI
+# # 2 > Hello
+# # 3 > Welcome
+
+# #print each words one by one
+# self=open('self.txt','r')
+# for i in self:
+#     for j in i.split():
+#         print(j)
