@@ -1,1 +1,1 @@
-self=open('self.txt', mode='r')
+self_object=open('self.txt','r')
