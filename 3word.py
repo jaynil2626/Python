@@ -19,4 +19,3 @@ for word in words:
         flag=False
     if flag==True:
         print(word) 
-              
