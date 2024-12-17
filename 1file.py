@@ -1,3 +1,5 @@
+# file=11 marks with no mcq ,,, module 5 marks all mcq,,, oop= mcq and 6 marks program or 9 mrks
+
 # # File Opening
 # self=open('self.txt','r')
 # print(self)
