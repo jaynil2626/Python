@@ -1,9 +1,11 @@
 class lj:
-    def __init__(self):
-        self.name='vishal'
-        self.grade=10
+    def __init__(self,name,grade):
+        self.name=name
+        self.grade=grade
     
-obj1=lj()
-obj2=lj()
-print(id(obj1))
-print(id(obj2))
+    def set(self,number):
+        self.grade+=number
+        print(self.grade)
+
+s1=lj('vha',8)
+s1.set(9)
