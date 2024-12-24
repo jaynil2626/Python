@@ -1,0 +1,8 @@
+>> m-box-short-txt (4 program)
+>> log file (time > 1h)
+>> numelist -> initial
+>> baseball score txt
+>> user string, file word display
+>> japanese meaning -> line 1 letter
+>> habit
+>> atm_bank
