@@ -1,7 +1,7 @@
 >> m-box-short-txt (4 program)
 >> log file (time > 1h)
 >> numelist -> initial
->> baseball score txt
+>> baseball score txt (9 marks imp)
 >> user string, file word display
 >> japanese meaning -> line 1 letter
 >> habit
