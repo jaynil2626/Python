@@ -1,5 +1,5 @@
 # IMP IN 3 or 6 marks
-# a line should contain atmost 80 words, if exceed than in another line
+# a line should contain atmost 80 letters, if exceed than in another line
 f1=open('self.txt')
 f2=open('xyz.txt','w')
 l1=f1.read().split(" ")
